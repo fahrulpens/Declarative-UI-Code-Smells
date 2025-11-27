@@ -16,7 +16,7 @@ For detailed examples, see the `examples/` folder.
 ## DUIS-01 – Large view / Component (Monolithic UI Component)
 
 **Intent**  
-A single UI component (widget/composable/view) doing too much: large layouts combined with navigation, business logic, and/or state handling.
+A single UI component (widget/composable/view) doing too much: large layouts combined with navigation, business logic, and/or state handling. This smell mixing layout, navigation, state, and business logic.
 
 **Scope / Context**  
 Any declarative UI component: Flutter `Widget`, React component, Jetpack Compose `@Composable`, SwiftUI `View`.
