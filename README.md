@@ -1,4 +1,4 @@
-# Declarative UI Code Smell Catalog
+# DUIS - Declarative UI Code Smell Catalog
 
 This repository contains a unified catalog of **code smells specific to declarative UI frameworks**, such as **Flutter**, **React**, **Jetpack Compose**, and **SwiftUI**.
 
